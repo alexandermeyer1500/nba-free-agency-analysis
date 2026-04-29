@@ -12,6 +12,11 @@ Free agency spending is often viewed as a way for NBA teams to improve performan
 ## Method
 I collected data on free agency spending and win percentages for the top 10 NBA teams by spending following the 2024–2025 season. I created a performance improvement metric by comparing each team’s win percentage before and after free agency. I then used correlation and linear regression to analyze the relationship between spending and both team performance and improvement.
 
+## Results
+- Spending vs performance: weak negative correlation (r ≈ -0.23)
+- Spending vs improvement: moderate negative correlation (r ≈ -0.35)
+- Outlier analysis identified San Antonio and Detroit as overperformers, while Sacramento and Memphis significantly underperformed expectations.
+
 ## Key Findings
 - Free agency spending showed a weak negative relationship with team performance.
 - Spending showed a moderate negative relationship with improvement in win percentage.
